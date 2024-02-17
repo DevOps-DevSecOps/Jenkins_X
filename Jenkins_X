@@ -1,2 +1,3 @@
 Jenkins X is a GitOps.
 Jenkins X is a complete CI/CD (Continuous Integration and Continuous Delivery) tool.
+Jenkins X is a CI/CD tool, it don't have to set up a CI pipeline.
